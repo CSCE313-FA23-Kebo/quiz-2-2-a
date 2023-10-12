@@ -1,0 +1,147 @@
+davidkebo@linux:~/code/source/quizzes/quiz3/filestats$ ./filestats
+usage: filestats directory_name
+davidkebo@linux:~/code/source/quizzes/quiz3/filestats$ ./filestats players
+can’t open players
+davidkebo@linux:~/code/source/quizzes/quiz3/filestats$ ./filestats games/
+File name: multiplayer
+inode number: 1819204
+number of links: 2
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 4096 bytes
+Last access: Thu Oct  6 01:08:33 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 40775
+Access mode flags: rwxrwxr-x
+
+File name: strategy.txt
+inode number: 1819209
+number of links: 2
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 244 bytes
+Last access: Thu Oct  6 07:05:15 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 06:31:11 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--
+
+File name: ..
+inode number: 1818235
+number of links: 3
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 4096 bytes
+Last access: Thu Oct  6 15:03:33 2022
+Last modification: Thu Oct  6 15:03:32 2022
+Last status change: Thu Oct  6 15:03:32 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 40775
+Access mode flags: rwxrwxr-x
+
+File name: fighting.txt
+inode number: 1819202
+number of links: 1
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 290 bytes
+Last access: Thu Oct  6 01:28:28 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--
+
+File name: simulation.txt
+inode number: 1819207
+number of links: 1
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 200 bytes
+Last access: Thu Oct  6 01:28:28 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--
+
+File name: adventure
+inode number: 1819200
+number of links: 2
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 4096 bytes
+Last access: Thu Oct  6 01:08:33 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 40775
+Access mode flags: rwxrwxr-x
+
+File name: FIFA
+inode number: 1819209
+number of links: 2
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 244 bytes
+Last access: Thu Oct  6 07:05:15 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 06:31:11 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--
+
+File name: platformer.txt
+inode number: 1819205
+number of links: 1
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 125 bytes
+Last access: Thu Oct  6 01:28:28 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--
+
+File name: arcade.txt
+inode number: 1819201
+number of links: 1
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 155 bytes
+Last access: Thu Oct  6 01:28:28 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--
+
+File name: .
+inode number: 1819199
+number of links: 4
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 4096 bytes
+Last access: Thu Oct  6 06:31:12 2022
+Last modification: Thu Oct  6 06:31:11 2022
+Last status change: Thu Oct  6 06:31:11 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 40775
+Access mode flags: rwxrwxr-x
+
+File name: pokemon.dat
+inode number: 1819205
+number of links: 1
+User ID of owner: 1001
+Group ID of owner: 1002
+Size in bytes: 125 bytes
+Last access: Thu Oct  6 01:28:28 2022
+Last modification: Thu Oct  6 01:02:57 2022
+Last status change: Thu Oct  6 01:02:57 2022
+Number of disk blocks allocated: 8
+Access mode in octal: 100664
+Access mode flags: rw-rw-r--

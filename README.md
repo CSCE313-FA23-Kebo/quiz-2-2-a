@@ -1,4 +1,4 @@
-# Quiz 3.2.a: file stats
+# Quiz 2.2.a: file stats
 
 Write a C program that takes a directory name as input and give information about the named files in the directory.
 

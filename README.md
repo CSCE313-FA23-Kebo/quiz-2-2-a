@@ -1,6 +1,6 @@
 # Quiz 2.2.a: file stats
 
-Write a C program that takes a directory name as input and give information about the named files in the directory.
+Write a C program that takes a directory name as input and gives information about the named files in the directory.
 
 ## Print the files information
 For every file in the directory, print the following information.
